@@ -1,2 +1,2 @@
-# Alcohol.hithub.io
+# Alcohol.github.io
 Alcohol 
